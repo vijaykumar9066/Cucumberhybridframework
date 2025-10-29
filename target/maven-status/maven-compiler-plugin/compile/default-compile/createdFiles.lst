@@ -1,0 +1,4 @@
+utiles\commonutils.class
+pages\LoginPage.class
+utiles\ConfigReader.class
+utiles\ElementsUtils.class
